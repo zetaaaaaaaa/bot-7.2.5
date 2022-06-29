@@ -2,10 +2,10 @@
 ----------------------------------
 ⚙Soporte del bot:
 
-🌟 @Jose_752
-🌟 @xXxWTF_Dev
+🌟 @Zeta30
+
 ----------------------------------
-🧾Comandos el bot 5.0
+🧾Comandos el bot 7.2.5
 
 /start     💥 /tutorial
 /myuser💥 /account
